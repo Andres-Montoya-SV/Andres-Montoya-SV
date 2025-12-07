@@ -1,22 +1,22 @@
 # About Me:
 
 ### 🔭 I’m currently working on:
-<br>Backend architectures, secure payment systems, and AI-powered features for high-traffic applications.
+Backend architectures, secure payment systems, and AI-powered features for high-traffic applications.
 
 ### 🤝 I’m looking to collaborate on:
-<br>Open-source tools, distributed systems, and backend infrastructures that need performance, reliability, or security improvements.
+Open-source tools, distributed systems, and backend infrastructures that need performance, reliability, or security improvements.
 
 ### 🤝 I’m looking for help with:
-<br>Contributions to backend tooling, observability, and automation workflows.
+Contributions to backend tooling, observability, and automation workflows.
 
 ### 🌱 I’m currently learning:
-<br>Advanced cloud patterns, high-scale event-driven architectures, and LLM-driven system orchestration.
+Advanced cloud patterns, high-scale event-driven architectures, and LLM-driven system orchestration.
 
 ### 💬 Ask me about:
-<br>System design, distributed systems, backend performance, API security, Node.js, Python, and real-world payment processing.
+System design, distributed systems, backend performance, API security, Node.js, Python, and real-world payment processing.
 
 ### ⚡ Fun fact:
-<br>I enjoy optimizing systems as much as I enjoy breaking them to make them stronger.
+I enjoy optimizing systems as much as I enjoy breaking them to make them stronger.
 
 ### 👨‍💻 Software Engineer — 6+ Years of Experience
 I design, build, and scale secure, high-performance backend systems, payment-processing platforms, and AI-driven services.I have a strong track record of:
