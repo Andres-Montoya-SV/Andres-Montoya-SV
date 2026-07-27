@@ -1,4 +1,4 @@
-# Hi there, I'm Andrés (Cosmic Cashew)
+# Hi there, I'm Andrés
 
 Software & Security Engineer with 6+ years of experience building payment platforms, distributed systems, and secure cloud applications.
 
